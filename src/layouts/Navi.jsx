@@ -1,4 +1,5 @@
 import React from 'react'
+import LangSupport from "./LangSupport.jsx";
 import { Container, Menu , Icon} from 'semantic-ui-react'
 
 export default function Navi() {
@@ -26,6 +27,10 @@ export default function Navi() {
                     <Menu.Item
                         name='Contact'
                     />
+                            
+                     <Menu.Menu position='right'>
+                        <LangSupport />
+                    </Menu.Menu>
                 </Container>
             </Menu>
         </div>
