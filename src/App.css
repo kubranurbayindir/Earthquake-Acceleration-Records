@@ -20,30 +20,5 @@ h1{
 body {
   font-family: var(--mainFont);
   background: var(--mainBgColor);
-  height: 100vh;
   text-shadow: 0 0 1px black;
-}
-
-/* 
-responsive
-----------
-*/
-@media only screen and (max-width: 991px) {
-  .pricingBlock .ant-row > div:nth-child(2) .ant-list-item {
-    transform: scale(1.14);
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .pricingBlock .ant-row > div:nth-child(2) .ant-list-item {
-    transform: scale(1);
-  }
-
-  .mobileVisible {
-    display: block;
-  }
-  
-  .mobileHidden {
-    display: none;
-  }
 }
