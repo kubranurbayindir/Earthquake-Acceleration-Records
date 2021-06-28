@@ -3,7 +3,10 @@ import { Container, Menu , Icon} from 'semantic-ui-react'
 
 export default function Navi() {
     return (
-        <div>
+        <div  style={{
+            width: "100%",
+            height: "100%",
+          }}>
             <Menu inverted fixed="top"
         style={{
           position: "static",
