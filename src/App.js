@@ -7,9 +7,7 @@ import { Container } from 'semantic-ui-react'
 
 const App = () => {
   return (
-    <div className="App" style={{
-      width: "100%",
-    }}>
+    <div className="App">
       <Navi />
       <Container className="main">
         <Dashboard />

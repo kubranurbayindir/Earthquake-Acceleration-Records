@@ -4,10 +4,7 @@ import { Container, Menu , Icon} from 'semantic-ui-react'
 
 export default function Navi() {
     return (
-        <div  style={{
-            width: "100%",
-            height: "100%",
-          }}>
+        <div>
             <Menu inverted fixed="top"
         style={{
           position: "static",
@@ -27,7 +24,6 @@ export default function Navi() {
                     <Menu.Item
                         name='Contact'
                     />
-                            
                      <Menu.Menu position='right'>
                         <LangSupport />
                     </Menu.Menu>

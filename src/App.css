@@ -10,15 +10,3 @@
 h1{
   font-size: 35px;
 }
-
-:root {
-  --mainFont: "Poppins", sans-serif !important;
-  --mainBgColor: #e6e6e680 !important;
-  --primaryColor: #2e4260 !important;
-}
-
-body {
-  font-family: var(--mainFont);
-  background: var(--mainBgColor);
-  text-shadow: 0 0 1px black;
-}
