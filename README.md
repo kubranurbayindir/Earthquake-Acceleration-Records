@@ -1,6 +1,6 @@
 ## Earthquake Acceleration Records
 
-<b><h2>Canlı Sunucuda Test Etmek İçin - BACKEND & FRONTEND <a href="https://earthquake-acceleration-recordsw-web-app.netlify.app/">Tıklayabilirsiniz.</a></h2></b>
+<b><h2>	⚡ Canlı Sunucuda Test Etmek İçin - BACKEND & FRONTEND <a href="https://earthquake-acceleration-recordsw-web-app.netlify.app/">Tıklayabilirsiniz.</a></h2></b>
 
 Getting Started with Create React App
 
