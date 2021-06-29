@@ -18,7 +18,6 @@ const App = () => {
         <Container className="main">
           <Dashboard />
           <Switch>
-            <Route exact path="/" component={Dashboard} />
             <Route path="/bodxchart" component={Bodxchart} />
             <Route path="/bodychart" component={Bodychart} />
             <Route path="/bodzchart" component={Bodzchart} />
