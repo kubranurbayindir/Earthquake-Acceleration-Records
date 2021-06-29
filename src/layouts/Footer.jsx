@@ -8,7 +8,7 @@ export default function Footer() {
         vertical
         style={{
           position: "static",
-          bottom: 0,
+          bottom: "0px",
           padding: "80px",
           width: "100%",
         }}>
